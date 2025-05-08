@@ -32,3 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
 </a>
 
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
+</a>
