@@ -11,8 +11,9 @@
 📫 Let’s connect: mayurip0629@gmail.com
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="50" height="50" alt="AWS"/>
 </a>
+
 
 
 <a href="https://www.jenkins.io/" target="_blank">
