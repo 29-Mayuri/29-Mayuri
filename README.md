@@ -1,4 +1,4 @@
-## Hi there 👋 Hi, I’m Mayuri Pawar 
+## Hi there 👋 I’m Mayuri Pawar 
 
     an AWS and DevOps Engineer with 2.10+ years of IT experience.
 
