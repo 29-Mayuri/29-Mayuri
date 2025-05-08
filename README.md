@@ -43,7 +43,8 @@ Development Tools
 </a>
 
 <a href="https://maven.apache.org/" target="_blank">
-  <img src="https://img.icons8.com/ios/50/000000/apache-maven.png" width="50" alt="Maven"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apache_Maven_logo.svg" width="50" alt="Maven"/>
 </a>
+
 
 
