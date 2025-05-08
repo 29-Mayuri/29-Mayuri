@@ -11,7 +11,7 @@
 📫 Let’s connect: mayurip0629@gmail.com
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="50" height="50" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50" height="50" alt="AWS"/>
 </a>
 
 
