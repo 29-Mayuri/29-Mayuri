@@ -6,5 +6,6 @@
 💡 Passionate about continuous learning, clean code, and collaborative development.
 📫 Let’s connect: mayurip0629@gmail.com
 ![AWS Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 
 
