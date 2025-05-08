@@ -42,9 +42,5 @@ Development Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git Bash"/>
 </a>
 
-<a href="https://maven.apache.org/" target="_blank">
-  <img src="https://img.icons8.com/ios/50/000000/apache-maven.png" width="50" alt="Maven"/>
-</a>
-
 
 
