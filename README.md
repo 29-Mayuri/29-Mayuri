@@ -15,7 +15,6 @@
 </a>
 
 
-
 <a href="https://www.jenkins.io/" target="_blank">
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="50" height="50" alt="Jenkins Logo"/>
 </a>
