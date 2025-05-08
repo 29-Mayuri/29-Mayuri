@@ -41,7 +41,6 @@
 </a>
 
 
-<a href="https://git-scm.com/downloads" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git Bash"/>
+<a href="https://maven.apache.org/" target="_blank">
+  <img src="assets/maven.png" width="50" alt="Maven"/>
 </a>
-
