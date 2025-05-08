@@ -6,8 +6,5 @@
 💡 Passionate about continuous learning, clean code, and collaborative development.
 📫 Let’s connect: mayurip0629@gmail.com
 
-<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-
+[![Jenkins Logo](https://www.jenkins.io/images/logos/jenkins/jenkins.png)](https://www.jenkins.io/)
 
