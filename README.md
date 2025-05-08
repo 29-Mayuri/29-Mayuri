@@ -6,5 +6,7 @@
 💡 Passionate about continuous learning, clean code, and collaborative development.
 📫 Let’s connect: mayurip0629@gmail.com
 
-[![Jenkins Logo](https://www.jenkins.io/images/logos/jenkins/jenkins.png)](https://www.jenkins.io/)
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="50" height="50" alt="Jenkins Logo"/>
+</a>
 
