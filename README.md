@@ -10,10 +10,6 @@
 
 📫 Let’s connect: mayurip0629@gmail.com
 
-<a href="https://en.wikipedia.org/wiki/Software_development" target="_blank">
-  <img src="https://img.icons8.com/ios/50/000000/angle-brackets.png" width="50" alt="Development"/>
-</a>
-
 Development Tools 
 
 <a href="https://aws.amazon.com/" target="_blank">
