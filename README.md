@@ -36,6 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
 </a>
 
+<a href="https://git-scm.com/" target="_blank">
+  <img src="assets/git-logo.png" width="50" alt="Git"/>
+</a>
 
 
 
