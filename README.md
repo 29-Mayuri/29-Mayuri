@@ -1,7 +1,6 @@
-## Hi there 👋 I’m Mayuri Pawar 
+## Hi there 👋 
 
-   
-    An AWS and DevOps Engineer with 2.10+ years of IT experience.
+I’m Mayuri Pawar - An AWS and DevOps Engineer with 2.10+ years of IT experience.
 
 🚀 Skilled in CI/CD, Docker, Kubernetes, Terraform, and AWS services (EC2, S3, IAM, EKS).
 
