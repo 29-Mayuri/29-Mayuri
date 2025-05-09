@@ -50,6 +50,8 @@ Development Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git Bash"/>
 </a>
 
-[![Jira Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jira_logo.svg/512px-Jira_logo.svg.png)](https://www.atlassian.com/software/jira)
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jira_logo.svg/512px-Jira_logo.svg.png" width="50" height="50" alt="Jira"/>
+</a>
 
 
