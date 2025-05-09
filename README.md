@@ -42,8 +42,7 @@ Development Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git Bash"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/devops.png" alt="CI/CD" width="40"/>
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="40"/>
 </a>
-
 
