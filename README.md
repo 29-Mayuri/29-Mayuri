@@ -50,4 +50,5 @@ Development Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git Bash"/>
 </a>
 
+[![Alt text](URL_of_the_image)](URL_you_want_to_link_to)
 
