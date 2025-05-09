@@ -1,12 +1,19 @@
 ## Hi there 👋 
+I’m Mayuri Pawar 
+AWS & DevOps Engineer | Cloud Infrastructure & Automation
 
-👋 Hi, I’m Mayuri Pawar — an AWS and DevOps Engineer with 2.10+ years of IT experience.
+AWS Expertise: Proficient in AWS services such as EC2, S3, IAM, RDS, EKS, CloudWatch, and Lambda.
 
-🚀 Skilled in CI/CD, Docker, Kubernetes, Terraform, and AWS services (EC2, S3, IAM, RDS, ELB, EBS, CloudWatch, CloudFront, Lambda, EKS).
+CI/CD Automation: Skilled in building and managing continuous integration and delivery pipelines using Jenkins and GitLab CI.
 
-🔧 I automate infrastructure, optimize deployments, and build scalable cloud solutions.
+Containerization & Orchestration: Expertise in Docker for containerization and Kubernetes for managing microservices-based applications.
 
-💡 Passionate about continuous learning, clean code, and collaborative development.
+Infrastructure as Code: Experience automating infrastructure provisioning and management using Terraform.
+
+Scalability & Optimization: Focused on building scalable, efficient cloud solutions and optimizing deployments for high availability.
+
+Collaborative & Agile: Passionate about clean code, continuous learning, and contributing to collaborative development teams in fast-paced environments.
+
 
 📫 Let’s connect: mayurip0629@gmail.com
 
