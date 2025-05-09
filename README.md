@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I’m Mayuri Pawar 
+I’m Mayuri Pawar - 
 AWS & DevOps Engineer | Cloud Infrastructure & Automation
 
 AWS Expertise: Proficient in AWS services such as EC2, S3, IAM, RDS, EKS, CloudWatch, and Lambda.
